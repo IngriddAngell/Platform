@@ -1,4 +1,6 @@
 Resolusi untuk pembelajaran Platform:
 - Dapat nilai bagus, yaitu A
 - Tidak sering bolos kuliah atau matkul Platform 
-- Sering mengerjakan tugas dan mengumpulkan
+- Sering mengerjakan tugas dan mengumpulkan tugas 
+- Dapat mengerti apa materinya dan dapat membuat coding
+- Tidak malas mengerjakan tugas 
